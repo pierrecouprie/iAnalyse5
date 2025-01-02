@@ -4,6 +4,8 @@
 
 Minimum System Requirement: macOS 10.13.6 or newer
 
+Languages: English, Français
+
 App Store Download : [https://apps.apple.com/us/app/id1513428589](https://apps.apple.com/us/app/id1513428589)
 
 ![](screenshot_01.png)
