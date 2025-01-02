@@ -6,6 +6,9 @@ Minimum System Requirement: macOS 10.13.6 or newer
 
 App Store Download : [https://apps.apple.com/us/app/id1513428589](https://apps.apple.com/us/app/id1513428589)
 
+![](screenshot_01.png)
+![](screenshot_02.png)
+
 ## Interface
 
 * Create projects from zero or use a template library.
